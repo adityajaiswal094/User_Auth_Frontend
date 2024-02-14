@@ -18,4 +18,7 @@ A React application that allows user to sign up, login, logout and upload images
 2. Run `npm install` to install necessary dependencies.
 3. Run `npm start` to start the application.
 
-Note: Go through the README file of this [repo](https://github.com/adityajaiswal094/User_Auth) first.
+## Note
+
+1. Go through the README file of this [repo](https://github.com/adityajaiswal094/User_Auth) first.
+2. Keep the backend server running to use this application.
